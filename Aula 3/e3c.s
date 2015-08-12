@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.data
 str1:	.asciiz "Introduza dois numeros: "
 str2:	.asciiz "Resultado: "

@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.data
 str1: 	.asciiz "Introduza um numero: "
 str2:	.asciiz "\nO valor em octal: "
