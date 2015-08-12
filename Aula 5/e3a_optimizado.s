@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.eqv lastIndex, 9
 	.eqv SIZE, 10
 	.data

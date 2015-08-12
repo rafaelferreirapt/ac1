@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 # --------------------------------------
 # STRING LENGTH
 # in: $a0 = str, out: $v0 = str_length

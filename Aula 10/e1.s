@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.include "macros.s"
 	.data
 value:	.float 2.59375 #number with single precision (doesnt need more)

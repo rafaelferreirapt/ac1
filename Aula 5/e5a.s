@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.eqv SIZE, 40
 	.eqv lastPos, 36
 	.eqv inc, 4

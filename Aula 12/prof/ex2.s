@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.include "tp12_macros.asm"
 	.eqv std_id,0
 	.eqv std_fname,4

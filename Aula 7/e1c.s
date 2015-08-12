@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.include "macros.s"
 	.include "rotinas.s"
 	#atencao: vou invocar as macros e as rotinas 

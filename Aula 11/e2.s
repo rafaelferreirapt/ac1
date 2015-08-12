@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.include "rotines.s"
 	.include "macros.s"
 	.data

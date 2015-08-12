@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.include "macros.s"
 .eqv std_id, 0 # 0
 .eqv std_fname, 4 # 0+4

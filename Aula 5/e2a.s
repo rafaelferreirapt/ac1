@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.data
 lista: 	.word 8, -4, 3, 5, 124, -15, 87, 9, 27, 15
 str1:	.asciiz "\nConteudo do array:\n"

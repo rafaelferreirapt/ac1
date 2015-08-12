@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 #-----------------------------------------
 #  int strlen(char *s) 
 #  return number of chars of the string

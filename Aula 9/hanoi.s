@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 #needs recursive_rotines.s
 #------------------------------------------
 #  void print_msg(int t1, int t2, int cnt)

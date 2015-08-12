@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.data
 array:	.space 40	#4bytes * 10words = 40bytes  	
 	#

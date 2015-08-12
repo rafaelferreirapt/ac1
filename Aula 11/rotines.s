@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 #-----------------------------------
 # fahrenheit to celsius!
 # $f12 fahrenheit value < in

@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.data
 nelem:	.eqv SIZE, 3
 array:	.double 22.2, 44.2, 22.2 

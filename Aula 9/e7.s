@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.include "macros.s"
 	.include "recursive_rotines.s"
 	.include "hanoi.s" #needs recursive_rotines.s

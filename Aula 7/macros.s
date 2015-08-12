@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 .macro print_int_simple
 	li $v0, 1
 	syscall

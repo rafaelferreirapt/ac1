@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.data
 tabelaprecos: .float 1.2, 5.3, 4.7, 4.8, 8.9, 2.5
 numProdutos: .space 4 # unsigned int numProdutos

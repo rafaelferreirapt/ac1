@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 #	C—digo C     | Alinhamento | Dimens‹o | Offset
 #int id_number;   	   4 	        4         0
 #char first_name[18];      1            18        4

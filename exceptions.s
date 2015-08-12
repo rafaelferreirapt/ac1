@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 # SPIM S20 MIPS simulator.
 # The default exception handler for spim.
 #

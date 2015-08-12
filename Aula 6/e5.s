@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.data
 n_par: 	.asciiz "Nr. de parametros: "
 n_car:	.asciiz "Nr. de caracteres: "
