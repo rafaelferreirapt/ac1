@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.data
 str: 	.space 20 # bytes => 1 char = 1 byte
 	.text

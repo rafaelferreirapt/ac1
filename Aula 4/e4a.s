@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.data
 #declarar o array
 arr: 	.word 7692, 23, 5, 324 #4 numeros * 3 bytes

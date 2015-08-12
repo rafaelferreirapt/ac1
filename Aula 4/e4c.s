@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.eqv SIZE, 16 #4*4
 	.data
 #declarar o array
