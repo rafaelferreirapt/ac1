@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.text 
 	.globl main
 main: 	ori $t0,$0, 1 #$t0 = x (substituir val_x pelo valor de x pretendido), 1 ? o val nao podemos ter variaveis declaradas
