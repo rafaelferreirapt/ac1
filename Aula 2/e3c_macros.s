@@ -1,3 +1,5 @@
+	# Rafael Ferreira https://github.com/gipmon/ac1
+
 	.data
 qst1:	.asciiz "Introduza 2 numeros: \n"
 qst2:	.asciiz "A soma dos dois numeros e: \n"
